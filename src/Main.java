@@ -8,7 +8,7 @@ public class Main {
         meuIphone.pausar();
 
         // Testando Aparelho Telefônico
-        meuIphone.ligar("+55 11 98765-4321");
+        meuIphone.ligar("+55 99 99999-9999");
         meuIphone.atender();
         meuIphone.iniciarCorreioVoz();
 
